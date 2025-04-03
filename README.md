@@ -16,4 +16,16 @@
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/Bulseeye/LeetCode/tree/master/0907-koko-eating-bananas) |
+## Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Bulseeye/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Bulseeye/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Bulseeye/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
