@@ -21,6 +21,6 @@ class Solution:
                     q.append(node.right)
             if level:
                 # instead of returning the whole lvl []
-                # only return the most rightvalue
+                # only return the most rightsidedvalue
                 res.append(level[-1])
         return res
