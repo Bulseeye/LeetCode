@@ -30,7 +30,7 @@ class Solution:
                     #from the popped node.
                     q.append(tNode.left)
                     q.append(tNode.right)
-            # add the created [] to the res [] == [[]]
+            # add the created [] to the res [] == [[values]]
             if level:
                 res.append(level)
         # if the queue is empty retun the res
