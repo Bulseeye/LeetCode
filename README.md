@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Bulseeye/LeetCode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bulseeye/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0907-koko-eating-bananas](https://github.com/Bulseeye/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Tree
@@ -73,4 +74,12 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Bulseeye/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Bulseeye/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Bulseeye/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Bulseeye/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Bulseeye/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
