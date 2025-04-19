@@ -2,7 +2,7 @@ class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         # res is all combinations
         res = []
-        # index, cur = [] , total
+        # index, cur = [] , total.
 
 
         def dfs(i, cur, total):
