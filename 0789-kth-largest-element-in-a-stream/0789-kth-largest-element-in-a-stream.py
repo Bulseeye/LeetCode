@@ -6,6 +6,7 @@ class KthLargest:
         # turn nums in a minheap so [4,5,8,2] = [2, 4, 8, 5]
         heapq.heapify(self.nums)
         # as long as the heap is bigger then given k pop the smallest value
+        print(self.nums)
         while len(self.nums) > k:
             heapq.heappop(self.nums)
 
