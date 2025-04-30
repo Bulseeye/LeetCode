@@ -19,6 +19,7 @@
 | [0078-subsets](https://github.com/Bulseeye/LeetCode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bulseeye/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0907-koko-eating-bananas](https://github.com/Bulseeye/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1127-last-stone-weight](https://github.com/Bulseeye/LeetCode/tree/master/1127-last-stone-weight) |
 ## Tree
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bulseeye/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/Bulseeye/LeetCode/tree/master/1127-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
