@@ -19,6 +19,7 @@
 | [0078-subsets](https://github.com/Bulseeye/LeetCode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bulseeye/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0907-koko-eating-bananas](https://github.com/Bulseeye/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/Bulseeye/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Bulseeye/LeetCode/tree/master/1127-last-stone-weight) |
 ## Tree
 |  |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bulseeye/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1014-k-closest-points-to-origin](https://github.com/Bulseeye/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -96,9 +98,26 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bulseeye/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/Bulseeye/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Bulseeye/LeetCode/tree/master/1127-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bulseeye/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Math
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Bulseeye/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Bulseeye/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Sorting
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Bulseeye/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Bulseeye/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
