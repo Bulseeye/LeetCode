@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bulseeye/LeetCode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Bulseeye/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Bulseeye/LeetCode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bulseeye/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -71,6 +72,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bulseeye/LeetCode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bulseeye/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/Bulseeye/LeetCode/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
