@@ -74,6 +74,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Bulseeye/LeetCode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bulseeye/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0146-lru-cache](https://github.com/Bulseeye/LeetCode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Bulseeye/LeetCode/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
@@ -99,6 +100,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Bulseeye/LeetCode/tree/master/0146-lru-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bulseeye/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -130,4 +132,12 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bulseeye/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Bulseeye/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Bulseeye/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Bulseeye/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
