@@ -22,6 +22,7 @@
 | [0200-number-of-islands](https://github.com/Bulseeye/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bulseeye/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Bulseeye/LeetCode/tree/master/0217-contains-duplicate) |
+| [0695-max-area-of-island](https://github.com/Bulseeye/LeetCode/tree/master/0695-max-area-of-island) |
 | [0907-koko-eating-bananas](https://github.com/Bulseeye/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/Bulseeye/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Bulseeye/LeetCode/tree/master/1127-last-stone-weight) |
@@ -71,6 +72,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Bulseeye/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Bulseeye/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bulseeye/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0695-max-area-of-island](https://github.com/Bulseeye/LeetCode/tree/master/0695-max-area-of-island) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [0112-path-sum](https://github.com/Bulseeye/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Bulseeye/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Bulseeye/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Bulseeye/LeetCode/tree/master/0695-max-area-of-island) |
 ## Backtracking
 |  |
 | ------- |
@@ -147,8 +150,10 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Bulseeye/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Bulseeye/LeetCode/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Bulseeye/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Bulseeye/LeetCode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
