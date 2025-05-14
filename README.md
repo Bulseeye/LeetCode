@@ -25,6 +25,7 @@
 | [0695-max-area-of-island](https://github.com/Bulseeye/LeetCode/tree/master/0695-max-area-of-island) |
 | [0907-koko-eating-bananas](https://github.com/Bulseeye/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/Bulseeye/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/Bulseeye/LeetCode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/Bulseeye/LeetCode/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Bulseeye/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Tree
@@ -95,6 +96,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Bulseeye/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Bulseeye/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Bulseeye/LeetCode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/Bulseeye/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Bulseeye/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Backtracking
 |  |
@@ -158,5 +160,6 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Bulseeye/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Bulseeye/LeetCode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/Bulseeye/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Bulseeye/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
