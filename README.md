@@ -74,6 +74,7 @@
 | [0133-clone-graph](https://github.com/Bulseeye/LeetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Bulseeye/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Bulseeye/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Bulseeye/LeetCode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bulseeye/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0695-max-area-of-island](https://github.com/Bulseeye/LeetCode/tree/master/0695-max-area-of-island) |
 ## Hash Table
@@ -98,6 +99,7 @@
 | [0133-clone-graph](https://github.com/Bulseeye/LeetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Bulseeye/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Bulseeye/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Bulseeye/LeetCode/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/Bulseeye/LeetCode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Bulseeye/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Bulseeye/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -169,4 +171,9 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Bulseeye/LeetCode/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Bulseeye/LeetCode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Bulseeye/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
