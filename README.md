@@ -131,6 +131,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Bulseeye/LeetCode/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/Bulseeye/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -176,4 +177,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Bulseeye/LeetCode/tree/master/0207-course-schedule) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Bulseeye/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Bulseeye/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
