@@ -132,6 +132,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Bulseeye/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Bulseeye/LeetCode/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/Bulseeye/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
@@ -181,10 +182,15 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Bulseeye/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Bulseeye/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Bulseeye/LeetCode/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Bulseeye/LeetCode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Bulseeye/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
