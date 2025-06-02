@@ -188,6 +188,7 @@
 | [0063-unique-paths-ii](https://github.com/Bulseeye/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Bulseeye/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Bulseeye/LeetCode/tree/master/0198-house-robber) |
+| [1250-longest-common-subsequence](https://github.com/Bulseeye/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -196,4 +197,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Bulseeye/LeetCode/tree/master/0062-unique-paths) |
+## String
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/Bulseeye/LeetCode/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
