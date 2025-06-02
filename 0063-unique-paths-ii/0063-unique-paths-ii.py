@@ -15,7 +15,7 @@ class Solution:
                 return 0
             if (r, c) in mapping:
                 return mapping[(r, c)]
-            #replace 0 with possible path and return right, down
+            #replace 0 with possible path and return down, right
             mapping[(r, c)] = dfs(r + 1, c) + dfs(r, c + 1)
             return mapping[(r, c)]
 
