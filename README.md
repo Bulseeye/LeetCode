@@ -91,6 +91,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bulseeye/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/Bulseeye/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bulseeye/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Bulseeye/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Breadth-First Search
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Bulseeye/LeetCode/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/Bulseeye/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Design
 |  |
 | ------- |
