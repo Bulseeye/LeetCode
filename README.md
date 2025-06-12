@@ -116,6 +116,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Bulseeye/LeetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Bulseeye/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/Bulseeye/LeetCode/tree/master/0338-counting-bits) |
 ## Design
 |  |
 | ------- |
@@ -190,6 +191,7 @@
 | [0063-unique-paths-ii](https://github.com/Bulseeye/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Bulseeye/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Bulseeye/LeetCode/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/Bulseeye/LeetCode/tree/master/0338-counting-bits) |
 | [1250-longest-common-subsequence](https://github.com/Bulseeye/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
