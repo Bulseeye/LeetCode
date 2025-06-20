@@ -27,6 +27,7 @@
 | [0217-contains-duplicate](https://github.com/Bulseeye/LeetCode/tree/master/0217-contains-duplicate) |
 | [0695-max-area-of-island](https://github.com/Bulseeye/LeetCode/tree/master/0695-max-area-of-island) |
 | [0907-koko-eating-bananas](https://github.com/Bulseeye/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Bulseeye/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/Bulseeye/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Bulseeye/LeetCode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/Bulseeye/LeetCode/tree/master/1127-last-stone-weight) |
@@ -96,6 +97,7 @@
 | [0190-reverse-bits](https://github.com/Bulseeye/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Bulseeye/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bulseeye/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Bulseeye/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/Bulseeye/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Breadth-First Search
 |  |
@@ -197,6 +199,7 @@
 | [0070-climbing-stairs](https://github.com/Bulseeye/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Bulseeye/LeetCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Bulseeye/LeetCode/tree/master/0338-counting-bits) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Bulseeye/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1250-longest-common-subsequence](https://github.com/Bulseeye/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
@@ -210,4 +213,12 @@
 |  |
 | ------- |
 | [1250-longest-common-subsequence](https://github.com/Bulseeye/LeetCode/tree/master/1250-longest-common-subsequence) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Bulseeye/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Bulseeye/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
