@@ -29,6 +29,7 @@
 | [0907-koko-eating-bananas](https://github.com/Bulseeye/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Bulseeye/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/Bulseeye/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1020-longest-turbulent-subarray](https://github.com/Bulseeye/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1036-rotting-oranges](https://github.com/Bulseeye/LeetCode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/Bulseeye/LeetCode/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Bulseeye/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -200,6 +201,7 @@
 | [0198-house-robber](https://github.com/Bulseeye/LeetCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Bulseeye/LeetCode/tree/master/0338-counting-bits) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Bulseeye/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1020-longest-turbulent-subarray](https://github.com/Bulseeye/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1250-longest-common-subsequence](https://github.com/Bulseeye/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
@@ -221,4 +223,8 @@
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Bulseeye/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [1020-longest-turbulent-subarray](https://github.com/Bulseeye/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 <!---LeetCode Topics End-->
