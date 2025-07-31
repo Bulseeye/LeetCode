@@ -17,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Bulseeye/LeetCode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Bulseeye/LeetCode/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/Bulseeye/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Bulseeye/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Bulseeye/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Bulseeye/LeetCode/tree/master/0078-subsets) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bulseeye/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Bulseeye/LeetCode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bulseeye/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/Bulseeye/LeetCode/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/Bulseeye/LeetCode/tree/master/0146-lru-cache) |
@@ -153,6 +155,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Bulseeye/LeetCode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bulseeye/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Bulseeye/LeetCode/tree/master/0217-contains-duplicate) |
 | [1014-k-closest-points-to-origin](https://github.com/Bulseeye/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -214,6 +217,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Bulseeye/LeetCode/tree/master/0049-group-anagrams) |
 | [1250-longest-common-subsequence](https://github.com/Bulseeye/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Queue
 |  |
